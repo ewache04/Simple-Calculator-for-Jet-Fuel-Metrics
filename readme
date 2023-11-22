@@ -1,0 +1,35 @@
+# Jet Fuel Metrics Calculator
+
+## Description
+
+This Python program serves as a simple calculator for various metrics related to jet fuel. It allows users to input the number of gallons of jet fuel and calculates equivalent values in liters, barrels, CO2 emissions, energy, weight, cost, and flight time for a 787 aircraft.
+
+## Usage
+
+1. Run the program jet_fuel_calculator.py.
+2. Enter the number of gallons of jet fuel when prompted.
+3. View the calculated metrics for the given input.
+
+## Metrics Calculated
+
+- **Liters Amount:** Equivalent liters of jet fuel.
+- **Barrel Amount:** Barrels of oil required for the given gallons.
+- **Pounds of CO2:** CO2 emissions produced by the jet fuel.
+- **British Thermal Units (BTUs):** Energy produced by the jet fuel.
+- **Jet Weight:** Weight of the jet fuel in pounds.
+- **Cost in Dollars:** Cost of the jet fuel.
+- **Flight Time:** Estimated flight time for a 787 aircraft.
+
+## Improvements
+
+- **Code Structure:** The code has been organized for better readability and maintainability.
+- **Descriptive Function Names:** Function names and parameters have been updated to be more descriptive.
+- **Exception Handling:** Improved user interaction by handling value errors.
+
+## How to Run
+
+1. Make sure you have Python installed.
+2. Run the script `jet_fuel_calculator.py`.
+3. Follow the on-screen prompts to input the number of gallons.
+
+Feel free to customize and expand upon this calculator to suit your specific needs.
